@@ -6,7 +6,7 @@ root: intro
 parts:
   - caption: Introduction & Overview
     chapters:
-      - file: chapters/author
+      - file: chapters/Συγγραφέας
       - file: chapters/preface
       - file: chapters/toc
   - caption: Chapters
